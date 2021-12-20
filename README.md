@@ -12,4 +12,4 @@ A shared repo for data science bootcamp capstone project
 * Supervised learning using regression to explore the data.
 * Tableau for our dashboard.
 ## Machine Learning
-For the machine learning aspect of this project we have decided to use multiple different methods. The main one being the EasyEnsembleClassifier as this is what produced the highest balanced accuracy scored in module 17. One of the benefits to using this method is that it helps eliminate bias from the model. 
+For the machine learning aspect of this project we have decided to use multiple different methods. The main one being the EasyEnsembleClassifier as this is what produced the highest balanced accuracy scored in module 17. One of the benefits to using this method is that it helps eliminate bias from the model. The question we are attempting to answer is which  
