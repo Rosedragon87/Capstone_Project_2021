@@ -11,3 +11,4 @@ A shared repo for data science bootcamp capstone project
 * Postgres for our database.
 * Supervised learning using regression to explore the data.
 * Tableau for our dashboard.
+### Machine Learning
