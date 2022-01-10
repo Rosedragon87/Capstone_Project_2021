@@ -60,6 +60,6 @@ CREATE TABLE lifestyle_nondiabetes AS (SELECT client_id, diabetes_012, cholcheck
 
 CREATE TABLE socioeconomic_nondiabetes AS (SELECT client_id, diabetes_012, anyhealthcare, nodocbccost, sex, age, education, income from nondiabetes_and_prediabetes_health_indicators);
 
-CREATE TABLE lifestyle_nondiabetes AS (SELECT client_id, diabetes_012, cholcheck, smoker, physactivity, fruits, veggies, hvyalcoholconsump from nondiabetes_and_prediabetes_health_indicators);
+CREATE TABLE health_indicators_nondiabetes AS (SELECT highbp, highchol, bmi, stroke, heartdiseaseorattack, diffwalk from nondiabetes_and_prediabetes_health_indicators);
 
 
