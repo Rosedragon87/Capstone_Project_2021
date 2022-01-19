@@ -34,7 +34,8 @@ This showed us that the data when broken up into health indicators, socioeconomi
 #### Full Dataset
 ![image](https://user-images.githubusercontent.com/87450415/149331618-a2842ed8-08d6-481f-bd2a-2e2134324f05.png)
 
-
+## Presentation 
+https://docs.google.com/presentation/d/1coJeaHDlkWDXEsPsqhbe0Xcmy6ATYkP3tWhvnfAiw1c/edit?usp=sharing
 
 
 
